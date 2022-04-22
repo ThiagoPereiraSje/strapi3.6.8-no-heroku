@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_benefits",
+  "info": {
+    "name": "benefits",
+    "icon": "plus"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
